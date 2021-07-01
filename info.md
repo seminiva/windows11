@@ -1,6 +1,6 @@
 # windows11
 
-Методы проверки совместимости ПК с Windows 11
+Методы проверки совместимости ПК с [Windows 11](http://pyatilistnik.org/windows-10/)
 
 В предверии выхода новейшей Windows 11, все пользователи данного семейства ОС ринулись проверять свое оборудование на предмет совместимости. Как оказалось у многих людей она официально не проходит.
 
@@ -19,20 +19,18 @@
 4. Модуль TPM 2.0
 
 5. Видеокарта WDDM 2
-6. BIOS UEFI
+6. [BIOS](http://pyatilistnik.org/how-to-recognize-bios-signals/) UEFI
 
 7. Жесткий диск от 64 ГБ
 
-8. Разметка диска GPT
+8. Разметка диска [GPT](http://pyatilistnik.org/how-to-create-a-gpt-disk/)
 
 
 
-Существует матрица совместимости процессоров с Windows 11, посмотерть можно по ссылке. Для проверки оборудования, так же используют утилиты:
+Существует матрица совместимости процессоров с Windows 11, посмотерть можно по ссылке. Для [проверки оборудования](http://pyatilistnik.org/checking-your-computer-s-compatibility-with-windows-11/), так же используют утилиты:
 
 * WhyNotWin11
 
 * Win11SysCheck
 
 * Microsoft PC Health Check
-
-<ahref="http://pyatilistnik.org/change-the-constant-references-to-the-pictures-on-the-absolute-in-wordpress/">this blog</a>
